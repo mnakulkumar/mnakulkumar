@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Manoj Nakul Kumar
 
 🔐 Cybersecurity Graduate | SOC & Blue Team Enthusiast  
-📍 UK | Open to Graduate & Entry-Level Roles (Visa Sponsorship)
+📍 UK | Open to Graduate & Entry-Level Roles 
 
 I’m passionate about defending systems, analysing threats, and building practical security tools. I focus on hands-on cybersecurity projects that mirror real-world SOC environments.
 
